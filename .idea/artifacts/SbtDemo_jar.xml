@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SbtDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SbtDemo_jar</output-path>
+    <root id="archive" name="SbtDemo.jar">
+      <element id="module-output" name="sbtdemo" />
+      <element id="module-output" name="sbtdemo-build" />
+    </root>
+  </artifact>
+</component>
